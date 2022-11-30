@@ -41,3 +41,5 @@ except Exception as e:
 ![rocket picture](https://github.com/ClassProfile10/Mod07/blob/main/pictures/artemis%20rocket.jpg "Artemis Picture")
 
 ![Relative path rocket picture](/pictures/artemis%20rocket.jpg "Artemis Picture")
+
+![Relative path rocket picture](https://docs.github.com/assets/cb-12181/images/help/writing/quoted-text-rendered.png "Penguin")
