@@ -530,7 +530,7 @@ After the final edition of the script was written (Figure 1.9), it had to be tes
 
 The main menu prints out the current items read from the byte stream file. As seen above the current list is empty, the first option allows the user to add a new task. The second option allows the user to remove and existing task, the third option allows the user to save the data to the file, and the last option allows the user to exit the program.  
 
-![Figure2.2](https://raw.githubusercontent.com/ClassProfile10/Mod07/main/pictures/Fig%202.2.jpg "Figure 2.2: Result with option one selected")
+![Figure2.2](https://raw.githubusercontent.com/ClassProfile10/Mod07/main/pictures/Fig%202.2.jpg"Figure 2.2: Result with option one selected")
 #### *Figure 2.2: Result with option one selected*  
 
 Upon entering menu option one the user will be prompted to enter a new item and the cost of that item as shown in Figure 2.2. 
