@@ -556,13 +556,13 @@ Starting with the code from assignment 06 and adding features too demonstrate er
 The lecture and assignment videos were very helpful in preparing us to complete this assignment however external resources and assignments were critical this week as it was part of the assignment to find our own. After watching the lecture videos and doing some external research this assignment wasn’t too difficult.  Judging by the external research that was performed it appears that both error handling and pickling will be a strategy that is commonly used going forward. The external resources utilized for this assignment can be found below in Appendix B.  
 
 ## Appendix A  
-![Output in CMD](https://raw.githubusercontent.com/ClassProfile10/Mod07/blob/main/pictures/apen%20A%201.jpg "Output in CMD")  
-![Output in CMD2](https://raw.githubusercontent.com/ClassProfile10/Mod07/blob/main/pictures/apen%20A%202.jpg "Output in CMD 2")
+![Output in CMD](https://raw.githubusercontent.com/ClassProfile10/Mod07/main/pictures/apen%20A%201.jpg "Output in CMD")  
+![Output in CMD2](https://raw.githubusercontent.com/ClassProfile10/Mod07/main/pictures/apen%20A%202.jpg "Output in CMD 2")
 #### *Figure 3.1: Output using CMD*  
 
 <br/>
 
-![Output in .dat file](https://raw.githubusercontent.com/ClassProfile10/Mod07/blob/main/pictures/apen%20A%203.jpg "Byte stream output")
+![Output in .dat file](https://raw.githubusercontent.com/ClassProfile10/Mod07/main/pictures/apen%20A%203.jpg "Byte stream output")
 #### *Figure 3.2: Byte output to .dat file*
 
 <br/>
