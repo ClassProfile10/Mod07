@@ -523,7 +523,12 @@ while (True):
 
 ## Testing the Program
 
-After the final edition of the script was written (Figure 1.9), it had to be tested in both PyCharm as well as the OS command prompt to ensure the output was nearly identical to what the assignment asked for, which indeed it was (Figure 2.1 - Figure 2.6 and Appendix A).
+After the final edition of the script was written (Figure 1.9), it had to be tested in both PyCharm as well as the OS command prompt to ensure the output was nearly identical to what the assignment asked for, which indeed it was (Figure 2.1 - Figure 2.6 and Appendix A).  
+
+![Figure2.1](https://github.com/ClassProfile10/Mod07/blob/main/pictures/fig%2.1.jpg "Figure 2.1: Main menu")  
+#### *Figure 2.1: Main menu* 
+
+
 
 
 # Title
