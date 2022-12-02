@@ -530,22 +530,22 @@ After the final edition of the script was written (Figure 1.9), it had to be tes
 
 The main menu prints out the current items read from the byte stream file. As seen above the current list is empty, the first option allows the user to add a new task. The second option allows the user to remove and existing task, the third option allows the user to save the data to the file, and the last option allows the user to exit the program.  
 
-![Figure2.2](https://github.com/ClassProfile10/Mod07/blob/main/pictures/Fig%202.2.jpg "Figure 2.2: Result with option one selected")
+![Figure2.2](https://raw.githubusercontent.com/ClassProfile10/Mod07/main/pictures/Fig%202.2.jpg "Figure 2.2: Result with option one selected")
 #### *Figure 2.2: Result with option one selected*  
 
 Upon entering menu option one the user will be prompted to enter a new item and the cost of that item as shown in Figure 2.2. 
 
-![Figure2.3](https://github.com/ClassProfile10/Mod07/blob/main/pictures/Fig%202.3.jpg "Figure 2.3: Result with option two selected")
+![Figure2.3](https://raw.githubusercontent.com/ClassProfile10/Mod07/main/pictures/Fig%202.3.jpg "Figure 2.3: Result with option two selected")
 #### *Figure 2.3: Result with option two selected*  
 
 The figure above demonstrates the user selected option two which allows the user remove and item from the list. A second item was added to the list to better demonstrate option two. 
 
-![Figure2.4](https://github.com/ClassProfile10/Mod07/blob/main/pictures/Fig%202.4.jpg "Figure 2.4: Result with option three selected")
+![Figure2.4](https://raw.githubusercontent.com/ClassProfile10/Mod07/main/pictures/Fig%202.4.jpg "Figure 2.4: Result with option three selected")
 #### *Figure 2.4: Result with option three selected*  
 
 The figure above demonstrates the user selected option three which allows the user to save the data to the byte stream file.  
 
-![Figure2.5](https://github.com/ClassProfile10/Mod07/blob/main/pictures/Fig%202.5.jpg "Figure 2.5: Result with option four selected")
+![Figure2.5](https://raw.githubusercontent.com/ClassProfile10/Mod07/main/pictures/Fig%202.5.jpg "Figure 2.5: Result with option four selected")
 #### *Figure 2.5: Result with option four selected*  
 
 The figure above demonstrates the user selected option four which allows the user to exit the program. 
@@ -556,13 +556,13 @@ Starting with the code from assignment 06 and adding features too demonstrate er
 The lecture and assignment videos were very helpful in preparing us to complete this assignment however external resources and assignments were critical this week as it was part of the assignment to find our own. After watching the lecture videos and doing some external research this assignment wasn’t too difficult.  Judging by the external research that was performed it appears that both error handling and pickling will be a strategy that is commonly used going forward. The external resources utilized for this assignment can be found below in Appendix B.  
 
 ## Appendix A  
-![Output in CMD](https://github.com/ClassProfile10/Mod07/blob/main/pictures/apen%20A%201.jpg "Output in CMD")  
-![Output in CMD2](https://github.com/ClassProfile10/Mod07/blob/main/pictures/apen%20A%202.jpg "Output in CMD 2")
+![Output in CMD](https://raw.githubusercontent.com/ClassProfile10/Mod07/blob/main/pictures/apen%20A%201.jpg "Output in CMD")  
+![Output in CMD2](https://raw.githubusercontent.com/ClassProfile10/Mod07/blob/main/pictures/apen%20A%202.jpg "Output in CMD 2")
 #### *Figure 3.1: Output using CMD*  
 
 <br/>
 
-![Output in .dat file](https://github.com/ClassProfile10/Mod07/blob/main/pictures/apen%20A%203.jpg "Byte stream output")
+![Output in .dat file](https://raw.githubusercontent.com/ClassProfile10/Mod07/blob/main/pictures/apen%20A%203.jpg "Byte stream output")
 #### *Figure 3.2: Byte output to .dat file*
 
 <br/>
