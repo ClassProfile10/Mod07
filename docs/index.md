@@ -2,7 +2,7 @@
 *IT FDN 110 A*  
 *Assignment 07*  
 *GitHub: https://github.com/ClassProfile10/Mod07*  
-*Website: https://github.com/ClassProfile10/Mod07*  
+*Website: https://classprofile10.github.io/Mod07/*  
 
 # Error Handling and Pickling in Python 
 
