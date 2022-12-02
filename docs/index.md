@@ -574,14 +574,14 @@ The lecture and assignment videos were very helpful in preparing us to complete 
 
 ### pickling (serialization/flattening)  
 Pickling is used to store python objects such as classes, variables, lists, etc as a byte stream. A byte stream is simple a sequence of bytes, in groups of 8 bits. Pickling converts Python objects into characters streams which can be sent across networks.  
-**Article:** https://www.tutorialspoint.com/python  
-**Video:** https://www.youtube.com/watch?v=2Tw39kZIbhs   
+**Article:** [https://www.tutorialspoint.com/python](https://www.tutorialspoint.com/python)  
+**Video:** [https://www.youtube.com/watch?v=2Tw39kZIbhs](https://www.youtube.com/watch?v=2Tw39kZIbhs)     
 
 <br/>
 <br/>
 
 ### Error handling  
 Exception handling or error handling in Python is used to try and catch exceptions. Exceptions are what happens when there is no syntax error but the code cannot compile. A common exception would be the “ZeroDivisionError.” One can collect draft a program that asks the user to input two numbers and outputs the quotient. The author of the program man not inet for the user in input a 0 as one of the two number but if they do Python will throw an exception error. This can be mitigated however if the author puts in a try except block that fixes the error or informs the user of the error. These can be extremely helpful to mitigate common errors or error that the authors foresees could be a potential.  
-**Article:** https://www.w3schools.com/python/python_try_except.asp  
-**Video:** https://www.youtube.com/watch?v=brICUKrzVR0&list=PL98qAXLA6afuh50qD2MdAj3ofYjZR_Phn&t=23s  
+**Article:** [https://www.w3schools.com/python/python_try_except.asp](https://www.w3schools.com/python/python_try_except.asp)    
+**Video:** [https://www.youtube.com/watch?v=brICUKrzVR0&list=PL98qAXLA6afuh50qD2MdAj3ofYjZR_Phn&t=23s](https://www.youtube.com/watch?v=brICUKrzVR0&list=PL98qAXLA6afuh50qD2MdAj3ofYjZR_Phn&t=23s)  
 
