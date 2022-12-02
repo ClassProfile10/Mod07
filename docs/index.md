@@ -563,7 +563,7 @@ The lecture and assignment videos were very helpful in preparing us to complete 
 <br/>
 
 ![Output in .dat file](https://github.com/ClassProfile10/Mod07/blob/main/pictures/apen%20A%203.jpg "Byte stream output")
-#### *Figure 3.2: Byte output to .dat file
+#### *Figure 3.2: Byte output to .dat file*
 
 <br/>
 <br/>
